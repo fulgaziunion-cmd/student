@@ -1,11 +1,15 @@
-<div align="center">
+# GroupSync Pro - Student Movement of Bangladesh
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+এই অ্যাপ্লিকেশনটি মেম্বার ম্যানেজমেন্ট এবং রিয়েল-টাইম চ্যাটের জন্য তৈরি।
 
-  <h1>Built with AI Studio</h2>
+### কিভাবে ডেপ্লয় করবেন:
+1. সব ফাইল একটি ফোল্ডারে রাখুন।
+2. [Netlify Drop](https://app.netlify.com/drop)-এ ফোল্ডারটি আপলোড করুন।
+3. Netlify ড্যাশবোর্ড থেকে `API_KEY` এনভায়রনমেন্ট ভেরিয়েবল সেট করুন।
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+### ফিচারসমূহ:
+- মেম্বার ডিরেক্টরি (রক্তের গ্রুপ ফিল্টারসহ)
+- রিয়েল-টাইম চ্যাট (localStorage sync ভিত্তিক)
+- এআই চালিত নোটিশ বোর্ড
+- অ্যাডমিন কন্ট্রোল প্যানেল
+- ওয়েবসাইট লিংক সেটিংস

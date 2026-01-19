@@ -1,0 +1,14 @@
+{
+  "name": "groupsync-pro",
+  "version": "1.0.0",
+  "description": "Group Management System",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@google/genai": "^1.37.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
